@@ -1,7 +1,5 @@
 # Quant
-Finance
-Numerical Analysis
-Derivative
+Finance / Numerical Analysis / Derivative
 
 Contract.
 snsnskan@gmail.com
